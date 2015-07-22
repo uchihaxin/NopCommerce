@@ -1,0 +1,10 @@
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

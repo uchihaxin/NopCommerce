@@ -1,0 +1,11 @@
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Views\MiscWebServices\Configure.cshtml
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\web.config
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\logo.jpg
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll.config
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+C:\Users\xjiang\Downloads\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

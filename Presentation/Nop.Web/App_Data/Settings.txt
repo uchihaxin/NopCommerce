@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=OPTI9020-1\Xin_LocalServer;Initial Catalog=NopCommerce;Integrated Security=False;Persist Security Info=False;User ID=NopCommerce;Password=NopCommerce
